@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.btn-outline-inverse {
+	/*border-color: #FFFFFF;	
+	background-color: white;
+	color: #374746;*/
+	background-color: transparent;
+	color: #FFFFFF;
+	/*border: 1px solid white;*/
+	border: 1px solid #E89C0C;
+	
+	-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+}
+
+.btn-outline-inverse:hover, .btn-outline-inverse:focus, .btn-outline-inverse:active {
+	
+	/*background-color: transparent;
+	color: #FFFFFF;*/
+	border-color: #E89C0C;
+	color: #374746;
+	
+	-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	
+}
+
+.btn-lg {
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 120px;
+}
+
+
+.btn-xs {
+	font-size: 10px;
+	margin-left: 3px;
+	margin-right: 3px;
+	min-width: 50px;
+	
+	background-color: transparent;
+	color: white;
+	/*border: 1px solid white;*/
+	border: 1px solid #999;
+}
+
+.btn-xs:hover, .btn-xs:focus, .btn-xs:active {
+	border-color: white;
+	background-color: transparent;
+	color: white;
+}
+

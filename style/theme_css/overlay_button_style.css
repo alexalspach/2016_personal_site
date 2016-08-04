@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.btn-outline-inverse {
+	/*border-color: #FFFFFF;	
+	background-color: white;
+	color: #354E4E;*/
+	background-color: transparent;
+	color: #FFFFFF;
+	/*border: 1px solid white;*/
+	border: 1px solid #E89C0C;
+	E89C0C
+	
+	/*-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;*/
+}
+
+.btn-outline-inverse:hover, .btn-outline-inverse:focus, .btn-outline-inverse:active {
+	
+	/*background-color: transparent;
+	color: #FFFFFF;*/
+	border-color: #E89C0C;
+	color: #354E4E;
+	
+	/*-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;*/
+	
+}
+
+.btn-lg {
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 120px;
+}

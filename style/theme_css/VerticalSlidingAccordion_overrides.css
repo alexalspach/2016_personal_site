@@ -1,0 +1,38 @@
+/* CSS Document */
+
+.va-container {
+	margin: 0 auto 0 auto; 
+}
+
+.va-accordion {
+}
+
+img.desaturate { -webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+filter: grayscale(100%);
+}
+
+.va-slice {
+
+}
+
+.va-slice-1{
+	background:#000 url(../../carousel/VerticalSlidingAccordion/images/10.jpg) no-repeat center center;
+	background-size: cover;
+	
+	/*
+	-webkit-filter: grayscale(1); -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%);
+	filter: gray; filter: grayscale(100%);
+	filter: url(desaturate.svg#greyscale);	
+	
+	filter: brightness(80%);
+	-webkit-filter: brightness(80%);
+	-moz-filter: brightness(80%);
+	-o-filter: brightness(80%);
+	-ms-filter: brightness(80%);
+	*/
+}
+
+.va-title {
+	text-shadow: 5px 3px 1px black;	
+}

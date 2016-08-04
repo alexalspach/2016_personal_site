@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	showExpandButton="true"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+	thumbFrameColor="rgba(232,156,12,.6)"
+	backgroundColor="rgba(34,34,34,.8)"
+
+>
+  <image imageURL="images/DSCF7087.jpeg"
+	thumbURL="thumbs/DSCF7087.jpeg"
+	linkURL="images/DSCF7087.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF7087.jpeg">
+    <title><![CDATA[Completed MiniHUBO miniature humanoid]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF7090.jpeg"
+	thumbURL="thumbs/DSCF7090.jpeg"
+	linkURL="images/DSCF7090.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF7090.jpeg">
+    <title><![CDATA[Completed MiniHUBO miniature humanoid]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF7107.JPG"
+	thumbURL="thumbs/DSCF7107.JPG"
+	linkURL="images/DSCF7107.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF7107.JPG">
+    <title><![CDATA[Powered MiniHUBO miniature humanoid]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF7091.jpeg"
+	thumbURL="thumbs/DSCF7091.jpeg"
+	linkURL="images/DSCF7091.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF7091.jpeg">
+    <title><![CDATA[Alex and MiniHUBO]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6212 3.JPG"
+	thumbURL="thumbs/DSCF6212 3.JPG"
+	linkURL="images/DSCF6212 3.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6212 3.JPG">
+    <title><![CDATA[Tormach Personal CNC Machine]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6209 3.JPG"
+	thumbURL="thumbs/DSCF6209 3.JPG"
+	linkURL="images/DSCF6209 3.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6209 3.JPG">
+    <title><![CDATA[MiniHUBO pelvis component]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6210 3.JPG"
+	thumbURL="thumbs/DSCF6210 3.JPG"
+	linkURL="images/DSCF6210 3.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6210 3.JPG">
+    <title><![CDATA[MiniHUBO pelvis components]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6258.JPG"
+	thumbURL="thumbs/DSCF6258.JPG"
+	linkURL="images/DSCF6258.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Pictures/iPhoto Library/Masters/2009/Machining PIX/DSCF6258.JPG">
+    <title><![CDATA[MiniHUBO Ankle: Scored for bending]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6261.JPG"
+	thumbURL="thumbs/DSCF6261.JPG"
+	linkURL="images/DSCF6261.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Pictures/iPhoto Library/Masters/2009/Machining PIX/DSCF6261.JPG">
+    <title><![CDATA[MiniHUBO Ankle: Machining internal features]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6266.JPG"
+	thumbURL="thumbs/DSCF6266.JPG"
+	linkURL="images/DSCF6266.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6266.JPG">
+    <title><![CDATA[MiniHUBO Ankle: Ready for removal]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6270.JPG"
+	thumbURL="thumbs/DSCF6270.JPG"
+	linkURL="images/DSCF6270.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6270.JPG">
+    <title><![CDATA[MiniHUBO Ankle: Tabs must be cut to remove piece]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6288.JPG"
+	thumbURL="thumbs/DSCF6288.JPG"
+	linkURL="images/DSCF6288.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6288.JPG">
+    <title><![CDATA[MiniHUBO Ankle: Sanded and ready for bending]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6302.JPG"
+	thumbURL="thumbs/DSCF6302.JPG"
+	linkURL="images/DSCF6302.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6302.JPG">
+    <title><![CDATA[MiniHUBO Foot]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6279.JPG"
+	thumbURL="thumbs/DSCF6279.JPG"
+	linkURL="images/DSCF6279.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6279.JPG">
+    <title><![CDATA[MiniHUBO Foot]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6306.JPG"
+	thumbURL="thumbs/DSCF6306.JPG"
+	linkURL="images/DSCF6306.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6306.JPG">
+    <title><![CDATA[MiniHUBO Lower Leg]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6308.JPG"
+	thumbURL="thumbs/DSCF6308.JPG"
+	linkURL="images/DSCF6308.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6308.JPG">
+    <title><![CDATA[MiniHUBO Lower Leg]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6342.JPG"
+	thumbURL="thumbs/DSCF6342.JPG"
+	linkURL="images/DSCF6342.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6342.JPG">
+    <title><![CDATA[MiniHUBO Lower Leg]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6276.JPG"
+	thumbURL="thumbs/DSCF6276.JPG"
+	linkURL="images/DSCF6276.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6276.JPG">
+    <title><![CDATA[MiniHUBO Hip]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6330.JPG"
+	thumbURL="thumbs/DSCF6330.JPG"
+	linkURL="images/DSCF6330.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6330.JPG">
+    <title><![CDATA[MiniHUBO Hip]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6335.JPG"
+	thumbURL="thumbs/DSCF6335.JPG"
+	linkURL="images/DSCF6335.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6335.JPG">
+    <title><![CDATA[MiniHUBO Hip]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6336.JPG"
+	thumbURL="thumbs/DSCF6336.JPG"
+	linkURL="images/DSCF6336.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6336.JPG">
+    <title><![CDATA[MiniHUBO Hip]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6340.JPG"
+	thumbURL="thumbs/DSCF6340.JPG"
+	linkURL="images/DSCF6340.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/DSCF6340.JPG">
+    <title><![CDATA[MiniHUBO Hip]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5569.JPG"
+	thumbURL="thumbs/IMG_5569.JPG"
+	linkURL="images/IMG_5569.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/IMG_5569.JPG">
+    <title><![CDATA[MiniHUBO Servo Mounts]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5570.JPG"
+	thumbURL="thumbs/IMG_5570.JPG"
+	linkURL="images/IMG_5570.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/IMG_5570.JPG">
+    <title><![CDATA[MiniHUBO Servo Mounts]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5572.JPG"
+	thumbURL="thumbs/IMG_5572.JPG"
+	linkURL="images/IMG_5572.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/IMG_5572.JPG">
+    <title><![CDATA[MiniHUBO Servo Mounts]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5573.JPG"
+	thumbURL="thumbs/IMG_5573.JPG"
+	linkURL="images/IMG_5573.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/IMG_5573.JPG">
+    <title><![CDATA[MiniHUBO Servo Mounts]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5575.JPG"
+	thumbURL="thumbs/IMG_5575.JPG"
+	linkURL="images/IMG_5575.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/IMG_5575.JPG">
+    <title><![CDATA[MiniHUBO Servo Mounts]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5581.JPG"
+	thumbURL="thumbs/IMG_5581.JPG"
+	linkURL="images/IMG_5581.JPG"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/IMG_5581.JPG">
+    <title><![CDATA[MiniHUBO Servo Mounts]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 004.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 004.jpg"
+	linkURL="images/MiniHUBO Flange 004.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 004.jpg">
+    <title><![CDATA[MiniHUBO Servo Idle Horns]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 008.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 008.jpg"
+	linkURL="images/MiniHUBO Flange 008.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 008.jpg">
+    <title><![CDATA[MiniHUBO Servo Idle Horns: ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 011.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 011.jpg"
+	linkURL="images/MiniHUBO Flange 011.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 011.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn Hole Tapping]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 018.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 018.jpg"
+	linkURL="images/MiniHUBO Flange 018.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 018.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn Hole Tapping]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 022.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 022.jpg"
+	linkURL="images/MiniHUBO Flange 022.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 022.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn Pocket]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 028.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 028.jpg"
+	linkURL="images/MiniHUBO Flange 028.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 028.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn Pocket]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 032.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 032.jpg"
+	linkURL="images/MiniHUBO Flange 032.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 032.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn Pocket]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 037.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 037.jpg"
+	linkURL="images/MiniHUBO Flange 037.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 037.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn Service Plate]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 041.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 041.jpg"
+	linkURL="images/MiniHUBO Flange 041.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 041.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn Service Plate]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 044.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 044.jpg"
+	linkURL="images/MiniHUBO Flange 044.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 044.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn w/ Service Plate]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 047.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 047.jpg"
+	linkURL="images/MiniHUBO Flange 047.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 047.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn: Cutting Out]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 051.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 051.jpg"
+	linkURL="images/MiniHUBO Flange 051.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 051.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn: Cutting Out]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 053.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 053.jpg"
+	linkURL="images/MiniHUBO Flange 053.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 053.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horn: Cut Out]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 065.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 065.jpg"
+	linkURL="images/MiniHUBO Flange 065.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 065.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horns]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MiniHUBO Flange 070.jpg"
+	thumbURL="thumbs/MiniHUBO Flange 070.jpg"
+	linkURL="images/MiniHUBO Flange 070.jpg"
+	linkTarget="_blank"
+	sourcePath="/Volumes/Hard/Users/alex/Desktop/images/MiniHUBO Flange 070.jpg">
+    <title><![CDATA[MiniHUBO Servo Idler Horns]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
