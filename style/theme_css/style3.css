@@ -317,6 +317,27 @@ iframe {
 	
 }
 
+
+
+.img-single {
+	height:280px;
+	/*width:140px;*/
+
+	margin-bottom: 4px;
+	margin-left: 2px;
+	margin-right: 2px;
+	
+	-webkit-border-radius: 0px 0px 0px 0px;
+       -moz-border-radius: 0px 0px 0px 0px;
+            border-radius: 0px 0px 0px 0px;
+			
+	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+		
+		
+}
+
+
 .img-quad {
 	height:140px;
 	width:140px;
