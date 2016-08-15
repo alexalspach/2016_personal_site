@@ -179,7 +179,7 @@ h6 small,
 	background-color:#eeeeee;
 	border: none;
 
-	padding-top: 30px;
+	padding-top: 15px;
 	
 	-webkit-border-radius: 0px 0px 0px 0px;
        -moz-border-radius: 0px 0px 0px 0px;
@@ -480,13 +480,14 @@ td.year {
 
 	color: #777;
 
-	padding-top: 6px;
+	padding-top: 0px;
 
 
 }
 
 td.table-links { 
-	padding-top:10px;
+	/*padding-top:10px;*/
+	padding-top:4px;
 }
 
 .paper-title {
