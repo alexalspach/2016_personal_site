@@ -455,6 +455,28 @@ iframe {
 #time-place-table {
 	
 	/*margin-right: 15px;*/
+	margin-top: 20px;
+	margin-left: 00px;
+}
+
+
+#link-table {
+	
+	/*margin-right: 15px;*/
+	margin-top: 0px;
+	margin-left: 00px;
+}
+
+#top-link-table {
+	
+	/*margin-right: 15px;*/
+	margin-top: 10px;
+	margin-left: 00px;
+}
+
+#toc-table {
+	
+	/*margin-right: 15px;*/
 	margin-top: 0px;
 	margin-left: 00px;
 }
