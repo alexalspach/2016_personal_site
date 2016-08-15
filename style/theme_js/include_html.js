@@ -15,7 +15,8 @@ $(function(){
 });
 
 $(function(){
-  $("#includePapers").load("papers.html"); 
+  //$("#includePapers").load("papers.html"); 
+  $("#includePapers").load("paperspatents.html"); 
 });
 
 $(function(){
