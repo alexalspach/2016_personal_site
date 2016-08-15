@@ -24,6 +24,10 @@ body {
 	border-right: none;*/
 	
 	font-family:Arial, Helvetica, sans-serif;
+
+
+
+
 }
 
 h1, h2, h3, h4, h5 {
@@ -187,6 +191,10 @@ h6 small,
 			
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
 		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+
+	max-height:99999px; /* Disable font boosting * weird font scaling on chrome android */
+
+
 }
 	
 	
@@ -550,6 +558,9 @@ color:#000000;
 		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;*/
 				
 		  border-top:none;
+
+	max-height:99999px; /* Disable font boosting * weird font scaling on chrome android */
+
 	
 }
 
