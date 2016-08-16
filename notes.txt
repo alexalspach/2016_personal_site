@@ -8,3 +8,4 @@
 [    ]  Add proj. desc. on projects page to the Work page? 
 			bearbot, soft skin, (leave bullets for Macerick?)
 [    ]  Further project description
+[    ]  Spell check, proof read
