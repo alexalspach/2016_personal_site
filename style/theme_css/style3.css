@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5 {
 	/*border: solid 1px #374746;*/
 	
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
 }
 
 h1, h2, h3 {
@@ -63,22 +63,22 @@ h1 {
 
 h1 a { 
 	color: #222;
-text-decoration:none; 
+	text-decoration:none; 
 }
 
 h1 a:visited { 
 	color: #222;
-text-decoration:none; 
+	text-decoration:none; 
 }
 
 h1 a:hover { 
 	color: #222;
-text-decoration:none; 
+	text-decoration:none; 
 }
 
 h1 a:active { 
 	color: #222;
-text-decoration:none; 
+	text-decoration:none; 
 }
 
 
@@ -93,112 +93,112 @@ text-decoration:none;
 	margin-left: 15px;
 	
 	background: rgb(255, 255, 255); /* Fall-back for browsers that don't
-                                    support rgba */
+	support rgba */
 	/*background: rgba(255, 255, 255, .85);*/  /*background: #cece8e;*/ /* url('img/dotted-bg.png') repeat;  */
 	background: rgba(255, 255, 255, 1.0);
 	
 	-webkit-border-radius: 5px 5px 0px 0px;
-       -moz-border-radius: 5px 5px 0px 0px;
-            border-radius: 5px 5px 0px 0px;
-			
+	-moz-border-radius: 5px 5px 0px 0px;
+	border-radius: 5px 5px 0px 0px;
+	
 	border: 1px solid #374746;
 	/*border-bottom: none;*/
   /*-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
-		  border-bottom:none;*/
-			
-}
+          border-bottom:none;*/
+          
+      }
 
-#header-text {
-	
-	margin-bottom: -13px;
-	background-color: white;
-	
-	padding-left:15px;
-	padding-right:15px;
-	padding-bottom: 10px;
-	
-	margin-left:15px;
-	margin-right:15px;
-	
-	display: inline-block;
-}
-
-
-#footer{
-	font-size:90%;
-/*color:#888888;*/
-color:#777;
-text-align:center;
-padding-top:10px;
-padding-right:20px;
-	
-}
-
-#footer-links{
-font-size:90%;
-/*color:#888888;*/
-color:#777;
-text-align:center;
-padding-top:10px;
-padding-right:20px;
-	
-}
+      #header-text {
+      	
+      	margin-bottom: -13px;
+      	background-color: white;
+      	
+      	padding-left:15px;
+      	padding-right:15px;
+      	padding-bottom: 10px;
+      	
+      	margin-left:15px;
+      	margin-right:15px;
+      	
+      	display: inline-block;
+      }
 
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6 {
-	font-weight: 700;
-}
+      #footer{
+      	font-size:90%;
+      	/*color:#888888;*/
+      	color:#777;
+      	text-align:center;
+      	padding-top:10px;
+      	padding-right:20px;
+      	
+      }
 
-h1 small,
-h2 small,
-h3 small,
-h4 small,
-h5 small,
-h6 small,
-.h1 small,
-.h2 small,
-.h3 small,
-.h4 small,
-.h5 small,
-.h6 small {
-  color: #777;
-}
+      #footer-links{
+      	font-size:90%;
+      	/*color:#888888;*/
+      	color:#777;
+      	text-align:center;
+      	padding-top:10px;
+      	padding-right:20px;
+      	
+      }
 
 
-.well{
-	/*border-radius:0px 20px 0px 0px;*/
-	border-radius:0px 0px 0px 0px;
-	background-color:#eeeeee;
-	border: none;
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      .h1,
+      .h2,
+      .h3,
+      .h4,
+      .h5,
+      .h6 {
+      	font-weight: 700;
+      }
 
-	padding-top: 15px;
-	
-	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
-			
-	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+      h1 small,
+      h2 small,
+      h3 small,
+      h4 small,
+      h5 small,
+      h6 small,
+      .h1 small,
+      .h2 small,
+      .h3 small,
+      .h4 small,
+      .h5 small,
+      .h6 small {
+      	color: #777;
+      }
 
-	max-height:99999px; /* Disable font boosting * weird font scaling on chrome android */
+
+      .well{
+      	/*border-radius:0px 20px 0px 0px;*/
+      	border-radius:0px 0px 0px 0px;
+      	background-color:#eeeeee;
+      	border: none;
+
+      	padding-top: 15px;
+      	
+      	-webkit-border-radius: 0px 0px 0px 0px;
+      	-moz-border-radius: 0px 0px 0px 0px;
+      	border-radius: 0px 0px 0px 0px;
+      	
+      	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+      	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+
+      	max-height:99999px; /* Disable font boosting * weird font scaling on chrome android */
 
 
-}
-	
-	
-.well-youtube {
+      }
+      
+      
+      .well-youtube {
 
 	/*width:100%;
 	height:490px;*/
@@ -210,12 +210,12 @@ h6 small,
 	vertical-align:top;
 	
 	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
-			
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-					
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
 }
 
 .tall-video {
@@ -234,8 +234,8 @@ h6 small,
             border-radius: 0px 0px 0px 0px;
 			
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;*/
-					
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;*/
+	
 }
 
 .well-youtube2l {
@@ -250,17 +250,17 @@ h6 small,
 	display:inline-block;
 	
 	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
-			
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-					
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
 }
 
 iframe {
-    padding: 0;
-    margin: 0;
+	padding: 0;
+	margin: 0;
 	border:none;
 }
 
@@ -282,12 +282,12 @@ iframe {
 	display:inline-block;
 	
 	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
-			
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-					
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
 }
 
 .well-img {
@@ -307,12 +307,12 @@ iframe {
 	/*display:inline-block;*/
 	
 	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
-			
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
 	
 }
 
@@ -338,13 +338,13 @@ iframe {
 	margin-right: 2px;
 	
 	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
-			
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		
-		
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
+	
 }
 
 
@@ -357,13 +357,13 @@ iframe {
 	margin-right: 2px;
 	
 	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
-			
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		
-		
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
+	
 }
 
 
@@ -376,13 +376,13 @@ iframe {
 	margin-right: 2px;
 	
 	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
-			
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		
-		
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
+	
 }
 
 .img-two-tall {
@@ -394,63 +394,63 @@ iframe {
 	margin-right: 2px;
 	
 	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
-			
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		
-		
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
+	
 }
 
 .highlight-selection {
-/*border: 2px solid #E89C0C;*/
+	/*border: 2px solid #E89C0C;*/
 /*
 -webkit-box-shadow: #E89C0C 0px 5px 12px 0px;
 		box-shadow: #E89C0C 0px 5px 12px 0px;
 		*/
 		-webkit-box-shadow: #555 0px 5px 14px 0px;
-				box-shadow: #555 0px 5px 14px 0px;
+		box-shadow: #555 0px 5px 14px 0px;
 		
-}
+	}
 
-.label {
-	margin-top: 2px;
-	/*min-width:50px;*/
-}
+	.label {
+		margin-top: 2px;
+		/*min-width:50px;*/
+	}
 
-.label-info {
-  background-color: #374746;
-  /*border: 1px solid #374746;*/
-  
-}
+	.label-info {
+		background-color: #374746;
+		/*border: 1px solid #374746;*/
+		
+	}
 
-.label-success {
-  background-color: white;
-  border: 1px solid #ccc;
-  color: #374746;
-  
-}
+	.label-success {
+		background-color: white;
+		border: 1px solid #ccc;
+		color: #374746;
+		
+	}
 
 
-#3d-viewer {
-	
-	padding-top: 13px;
-	padding-bottom: 0px;
-	padding-left: 30px;
-	padding-right: 30px;
-	margin-top: 10px;
-	margin-right: 15px;
-	margin-left: 15px;
-	width: 500px;
-	height: 500px;
-	
+	#3d-viewer {
+		
+		padding-top: 13px;
+		padding-bottom: 0px;
+		padding-left: 30px;
+		padding-right: 30px;
+		margin-top: 10px;
+		margin-right: 15px;
+		margin-left: 15px;
+		width: 500px;
+		height: 500px;
+		
 	background: rgb(3, 3, 3); /* Fall-back for browsers that don't
-                                    support rgba */
+	support rgba */
 	/*background: rgba(255, 255, 255, .85);*/  /*background: #cece8e;*/ /* url('img/dotted-bg.png') repeat;  */
 	background: rgba(3, 3, 3, 1.0);
 
-			
+	
 }
 
 
@@ -490,11 +490,11 @@ table{
 }
 
 td, th {
-display: table-cell;
-vertical-align: top;
-padding-right: 5px;
-min-width:60px;
-/*width: 50px;*/
+	display: table-cell;
+	vertical-align: top;
+	padding-right: 5px;
+	min-width:60px;
+	/*width: 50px;*/
 }
 
 td.table-title { 
@@ -525,8 +525,8 @@ td.table-links {
 .paper-title {
 	font-size: 18px;
 	margin-top: 2px;
-    margin-bottom: 0px;
-    font-weight: 700;
+	margin-bottom: 0px;
+	font-weight: 700;
 
 }
 
@@ -541,13 +541,13 @@ td.table-content { /*width: 1000px;*/}
 
 a.flip-colors {
 
-color:#E89C0C;
+	color:#E89C0C;
 
 }
 
 a.flip-colors:hover {
 
-color:#000000;
+	color:#000000;
 }
 
 
@@ -573,15 +573,15 @@ color:#000000;
 	background: rgba(255, 255, 255, 1.0);
 	
 	-webkit-border-radius: 0px 0px 5px 5px;
-       -moz-border-radius: 0px 0px 5px 5px;
-            border-radius: 0px 0px 5px 5px;
-			
+	-moz-border-radius: 0px 0px 5px 5px;
+	border-radius: 0px 0px 5px 5px;
+	
 	border: 1px solid #374746;
 
 	/*-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;*/
-				
-		  border-top:none;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;*/
+	
+	border-top:none;
 
 	max-height:99999px; /* Disable font boosting * weird font scaling on chrome android */
 
@@ -597,17 +597,17 @@ color:#000000;
 	
 	border: 0px solid #e3e3e3;
  /* -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
-          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);*/
-		  border-top:none;
-		  border-right:none;
-		  border-bottom:none;
+ box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);*/
+ border-top:none;
+ border-right:none;
+ border-bottom:none;
 }
 
 .nav-tabs {
 	/*border: none;*/
 
 }
-	
+
 .nav-tabs > li > a {
 	/*transition: border-radius 0.25s;*/
 	border-radius: 0px 0px 0px 0px;
@@ -618,7 +618,7 @@ color:#000000;
 	margin-right: 3px; /*margin to the right of each tab*/
 	/*margin-top:3px;*/
 }
-	
+
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
 	color: #374746;
 	/*border: 1px solid #374746;*/
@@ -627,9 +627,9 @@ color:#000000;
 }
 .nav-tabs > .active > a, .nav-tabs > .active > a:hover, .nav-tabs > .active > a:focus {
 	/*color: #555555;
-  cursor: default;*/
-  /*background-color: #dddddd;*/
-  
+	cursor: default;*/
+	/*background-color: #dddddd;*/
+	
 	border-radius: 0px 10px 0px 0px;
 	
 	
@@ -640,8 +640,8 @@ color:#000000;
 	/*border-bottom-color: white;*/
   /*border-bottom-color: rgba(255, 255, 255, 1.0);
   border-bottom:0px dotted #ff0000;*/
-	font-weight: bold;
-	color: #000000;
+  font-weight: bold;
+  color: #000000;
 }
 .nav-tabs > li > a {
 	background: #374746;
@@ -658,7 +658,7 @@ color:#000000;
 }
 
 .nav-tabs-end {
-		/*border-radius: 0px 10px 0px 0px !important;*/
+	/*border-radius: 0px 10px 0px 0px !important;*/
 }
 
 /*This needs to be worked out so that it looks good on all screen sizes. 
@@ -667,43 +667,43 @@ Maybe dumb the footer unless descriptions will be added*/
 
 
 .Flexible-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 100px;
-    height: 100%;
-    /*overflow: hidden;*/
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 100px;
+	height: 100%;
+	/*overflow: hidden;*/
 	word-wrap: break-word;
-	  
-	  border: 1px solid #ddd;
-  *border: 0;
-  
+	
+	border: 1px solid #ddd;
+	*border: 0;
+	
 	/*-webkit-border-radius: 10px;
        -moz-border-radius: 10px;
-            border-radius: 10px;*/
-}
+       border-radius: 10px;*/
+   }
 
-.Flexible-container iframe,   
-.Flexible-container object,  
-.Flexible-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
+   .Flexible-container iframe,   
+   .Flexible-container object,  
+   .Flexible-container embed {
+   	position: absolute;
+   	top: 0;
+   	left: 0;
+   	width: 100%;
+   	height: 100%;
+   }
 
- 
-#well-content {
-	margin-left: 30px;
-	margin-right: 30px;
-}
+   
+   #well-content {
+   	margin-left: 30px;
+   	margin-right: 30px;
+   }
 
-/* Custom container */
-.container-narrow-margin {
+   /* Custom container */
+   .container-narrow-margin {
 /*
 	padding-left:10px;
 	margin-right:10px;
-*/
+	*/
 }
 
 .container-narrow {
@@ -728,11 +728,11 @@ Maybe dumb the footer unless descriptions will be added*/
 	
 	/*border: 2px solid #e3e3e3;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
-          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);*/
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);*/
 
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
 }
 
 /*
@@ -756,16 +756,16 @@ Maybe dumb the footer unless descriptions will be added*/
 	/*width: 940px;
     height: 500px;
     */
-	
-	
-	background-color: #ffffff;
-	
-	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
-			
-	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
-		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;			
+    
+    
+    background-color: #ffffff;
+    
+    -webkit-border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    border-radius: 0px 0px 0px 0px;
+    
+    -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;			
 }
 
 #content {
@@ -786,39 +786,39 @@ Maybe dumb the footer unless descriptions will be added*/
 	
   -webkit-border-radius: 10px;
      -moz-border-radius: 10px;
-          border-radius: 10px;*/
-}
-a {
-	cursor: pointer;
-	color: #374746;
-}
+     border-radius: 10px;*/
+ }
+ a {
+ 	cursor: pointer;
+ 	color: #374746;
+ }
 
-a:hover {
-	cursor: pointer;
-	/*color: #374746;*/
-	color: #E89C0C;
-	text-decoration: none;
-}
+ a:hover {
+ 	cursor: pointer;
+ 	/*color: #374746;*/
+ 	color: #E89C0C;
+ 	text-decoration: none;
+ }
 
-#qrcode{
-	margin-top:70px;
-	margin-bottom:20px;	
-}
+ #qrcode{
+ 	margin-top:70px;
+ 	margin-bottom:20px;	
+ }
 
 
-.btn-xs {
-	font-size: 10px;
-	margin-left: 3px;
-	margin-right: 3px;
-	min-width: 50px;
-	
-	background-color: transparent;
-	color: #374746;
-	/*border: 1px solid white;*/
-	border: 1px solid #999;
-}
+ .btn-xs {
+ 	font-size: 10px;
+ 	margin-left: 3px;
+ 	margin-right: 3px;
+ 	min-width: 50px;
+ 	
+ 	background-color: transparent;
+ 	color: #374746;
+ 	/*border: 1px solid white;*/
+ 	border: 1px solid #999;
+ }
 
-.btn-xs:hover, .btn-xs:focus, .btn-xs:active {
+ .btn-xs:hover, .btn-xs:focus, .btn-xs:active {
 	/*
 	border-color: #374746;
 	background-color: transparent;
