@@ -9,6 +9,9 @@
 			bearbot, soft skin, (leave bullets for Macerick?)
 [    ]  Further project description
 [    ]  Spell check, proof read
+Add design optimization to projects page, w/ video
+Add Can we build baymax websites (and how on my own server)
+Combine work and projects? where do Websites go?
 
 Add videos and pics to papers / patents page
 Mugshot rollover (baymax pic?)
