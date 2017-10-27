@@ -1,7 +1,7 @@
 [ NO ]  Add new sangwha video
-[    ]  Projects: More upper body pics?
+[DONE]  Projects: More upper body pics?
 [    ]  Projects: 2016? emsense? (pic, disney project page)
-[    ]  Projects: 2016? hugging test (pics, PSD, paper link)
+[DONE]  Projects: 2016? hugging test (pics, PSD, paper link)
 [DONE]  add sagawa paper
 [DONE]  add roman papers (hugging, telefurhat)
 [DONE]  add iros papers (ukelele, limb opt.)
@@ -9,10 +9,26 @@
 			bearbot, soft skin, (leave bullets for Macerick?)
 [    ]  Further project description
 [    ]  Spell check, proof read
-Add design optimization to projects page, w/ video
-Add Can we build baymax websites (and how on my own server)
-Combine work and projects? where do Websites go?
+[DONE]  Mugshot rollover (baymax pic?)
+[DONE]  Add snapbot!!!!!!!!!
+[DONE]  Add design optimization to projects page, w/ video
+[DONE]  Add Emsense
+[    ]  Allegro arm vid (where did it go? Not in Dropbox archive)
 
-Add videos and pics to papers / patents page
-Mugshot rollover (baymax pic?)
+
+Add media coverage page
+Add invited talks (including breaking the surface)
+Update where Ive been: Croatia, ??
+Combine work and projects? where does web design go?
+Add Websites (tab, copy site to local): 
+- NDS
+- LRR
+- Penonni Honors
+- Hubo Wiki
+- Simlab wikis (allegro hand, arm, dog)
+- Humanoids 1.2.3
+- 
+
+Add videos and pics to papers / patents page??
+
 Allegro arm vid
