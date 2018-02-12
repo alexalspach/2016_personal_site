@@ -14,7 +14,7 @@
 [DONE]  Add design optimization to projects page, w/ video
 [DONE]  Add Emsense
 [    ]  Allegro arm vid (where did it go? Not in Dropbox archive)
-
+[    ]  Robosoft Baymax Arm paper
 
 Add media coverage page
 Add invited talks (including breaking the surface)
