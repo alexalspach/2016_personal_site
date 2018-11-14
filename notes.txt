@@ -1,6 +1,6 @@
 [ NO ]  Add new sangwha video
 [DONE]  Projects: More upper body pics?
-[    ]  Projects: 2016? emsense? (pic, disney project page)
+[DONE]  Projects: 2016? emsense? (pic, disney project page)
 [DONE]  Projects: 2016? hugging test (pics, PSD, paper link)
 [DONE]  add sagawa paper
 [DONE]  add roman papers (hugging, telefurhat)
@@ -12,12 +12,14 @@
 [DONE]  Mugshot rollover (baymax pic?)
 [DONE]  Add snapbot!!!!!!!!!
 [DONE]  Add design optimization to projects page, w/ video
-[DONE]  Add Emsense
 [    ]  Allegro arm vid (where did it go? Not in Dropbox archive)
 [    ]  Robosoft Baymax Arm paper
 Two sehoon journal articles
-invited talks (TRI, Ted adelsons class, Crotia, IIT)
+invited talks (TRI, Ted adelsons class, Crotia, IIT, humanoids)
 Workshop "positions" and websites
+Newest journal article from Sehoon (6/25ish)
+Tetrabot is finally released 
+Snapbot photos
 
 Add media coverage page
 Add invited talks (including breaking the surface)
@@ -29,7 +31,12 @@ Add Websites (tab, copy site to local):
 - Penonni Honors
 - Hubo Wiki
 - Simlab wikis (allegro hand, arm, dog)
-- Humanoids 1.2.3
+- Humanoids 1.2.3.4
 - 
 
 Add videos and pics to papers / patents page??
+
+Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation
+They thanked me! Thats nice..
+
+http://wiki.wonikrobotics.com/AllegroHandWiki/index.php/Allegro_Hand#Customers

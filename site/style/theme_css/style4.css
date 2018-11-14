@@ -810,6 +810,7 @@ Maybe dumb the footer unless descriptions will be added*/
  	font-size: 10px;
  	margin-left: 3px;
  	margin-right: 3px;
+ 	margin-bottom: 5px;
  	min-width: 50px;
  	
  	background-color: transparent;
