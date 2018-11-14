@@ -20,6 +20,8 @@ Workshop "positions" and websites
 Newest journal article from Sehoon (6/25ish)
 Tetrabot is finally released 
 Snapbot photos
+Consistent last name, first name among paper and projects pages
+Abstracts to papers page (like humanoids ws expand button)
 
 Add media coverage page
 Add invited talks (including breaking the surface)
