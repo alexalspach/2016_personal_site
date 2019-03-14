@@ -15,7 +15,7 @@
 [    ]  Allegro arm vid (where did it go? Not in Dropbox archive)
 [    ]  Robosoft Baymax Arm paper
 Two sehoon journal articles
-invited talks (TRI, Ted adelsons class, Crotia, IIT, humanoids)
+invited talks (TRI interview, Ted adelsons class, Crotia, IIT, Robosoft WS)
 Workshop "positions" and websites
 Newest journal article from Sehoon (6/25ish)
 Tetrabot is finally released 
