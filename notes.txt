@@ -13,7 +13,11 @@
 [DONE]  Add snapbot!!!!!!!!!
 [DONE]  Add design optimization to projects page, w/ video
 [    ]  Allegro arm vid (where did it go? Not in Dropbox archive)
-[    ]  Robosoft Baymax Arm paper
+[DONE]  Robosoft Baymax Arm paper
+Baymax arm on projects page
+Soft bubble on projects page
+Tetrabot on projects page
+
 Two sehoon journal articles
 invited talks (TRI interview, Ted adelsons class, Crotia, IIT, Robosoft WS)
 Workshop "positions" and websites
@@ -22,9 +26,13 @@ Tetrabot is finally released
 Snapbot photos
 Consistent last name, first name among paper and projects pages
 Abstracts to papers page (like humanoids ws expand button)
+[DONE]  Add TRI soft bubble Paper
+[DONE]  Add 2 new TRI ICRA papers
+[DONE]  ADD Sehoon patent
+[DONE]  Add two bubble patents
 
 Add media coverage page
-Add invited talks (including breaking the surface)
+Add invited talks (including breaking the surface, robosoft workshop, IIT)
 Update where Ive been: Croatia, ??
 Combine work and projects? where does web design go?
 Add Websites (tab, copy site to local): 
@@ -33,10 +41,21 @@ Add Websites (tab, copy site to local):
 - Penonni Honors
 - Hubo Wiki
 - Simlab wikis (allegro hand, arm, dog)
-- Humanoids 1.2.3.4
+- Humanoids 1.2.3.4.5
 - 
 
 Add videos and pics to papers / patents page??
+
+[Done] New patent with Duy
+[Done] RAL best paper for double bubble. Journal 
+
+2019-Castro_Qu_Kuppuswamy_Alspach_Sheman-Smooth_Contact_notfinal.pdf Update to final
+2019-Kuppuswamy_Castro_Phillips-Grafflin_Alspach_Tedrake-Contact_Patch_notfinal.pdf Update to final
+
+Fix Disney Research links (la.disneyresearch)
+Add soft arm to Disney section of "Work" page
+Add TRI projects to projects page and work page
+
 
 Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation
 They thanked me! Thats nice..
