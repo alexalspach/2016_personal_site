@@ -246,6 +246,12 @@ h1 a:active {
 	
 }
 
+iframe {
+	padding: 0;
+	margin: 0;
+	border:none;
+}
+
 .well-youtube2l {
 
 	/*width:100%;
@@ -266,17 +272,6 @@ h1 a:active {
 	
 }
 
-iframe {
-	padding: 0;
-	margin: 0;
-	border:none;
-}
-
-/*
-.youtube {
-	
-}
-*/
 
 .well-youtube2r {
 
@@ -286,6 +281,47 @@ iframe {
 	height:216px;	
 	/*margin-top:20px;*/
 	margin-left:0.5%;
+	
+	display:inline-block;
+	
+	-webkit-border-radius: 0px 0px 0px 0px;
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
+	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
+}
+
+
+.well-youtube2l-wide {
+
+	/*width:100%;
+	height:490px;*/
+	width:49%;
+	height:226px;	
+	/*margin-top:20px;*/
+	margin-right:0.5%;
+	
+	display:inline-block;
+	
+	-webkit-border-radius: 0px 0px 0px 0px;
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
+	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
+}
+
+.well-youtube2r-wide {
+
+	/*width:100%;
+	height:490px;*/
+	width:49%;
+	height:226px;	
+	/*margin-top:20px;*/
+	margin-right:0.5%;
 	
 	display:inline-block;
 	
