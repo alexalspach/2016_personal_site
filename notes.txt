@@ -32,6 +32,9 @@ Abstracts to papers page (like humanoids ws expand button)
 [DONE]  Add two bubble patents
 
 Add media coverage page
+https://spectrum.ieee.org/automaton/robotics/home-robots/toyota-research-ceiling-mounted-home-robot
+What else?
+
 Add invited talks (including breaking the surface, robosoft workshop, IIT)
 Update where Ive been: Croatia, ??
 Combine work and projects? where does web design go?
