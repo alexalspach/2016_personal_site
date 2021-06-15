@@ -17,6 +17,9 @@
 Baymax arm on projects page
 Soft bubble on projects page
 Tetrabot on projects page
+[ ] PUNYO Press release and website
+
+
 
 Two sehoon journal articles
 invited talks (TRI interview, Ted adelsons class, Crotia, IIT, Robosoft WS)
