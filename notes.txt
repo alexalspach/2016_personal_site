@@ -6,7 +6,7 @@
 [DONE]  add roman papers (hugging, telefurhat)
 [DONE]  add iros papers (ukelele, limb opt.)
 [    ]  Add proj. desc. on projects page to the Work page? 
-			bearbot, soft skin, (leave bullets for Macerick?)
+[    ]  bearbot, soft skin, (leave bullets for Macerick?)
 [    ]  Further project description
 [    ]  Spell check, proof read
 [DONE]  Mugshot rollover (baymax pic?)
@@ -14,18 +14,23 @@
 [DONE]  Add design optimization to projects page, w/ video
 [    ]  Allegro arm vid (where did it go? Not in Dropbox archive)
 [DONE]  Robosoft Baymax Arm paper
-Baymax arm on projects page
-Soft bubble on projects page
-Tetrabot on projects page
-[ ] PUNYO Press release and website
+[    ]  Baymax arm on projects page
+[    ]  Soft bubble on projects page
+[    ]  Tetrabot on projects page
+[    ]  PUNYO Press release and website
+[    ]  
+[    ]  Robosoft 2022 3 papers (Punyo 1, Lumbrical Gripper, Bubble Gripper tool use)
+[    ]  Sihah robosoft variable pressure 
+[    ]  MORE PATENTS!! https://patents.google.com/?inventor=alexander+alspach&oq=alexander+alspach
+[    ] Capitalize all paper titles
 
 
 
-Two sehoon journal articles
+[DONE]  Two sehoon journal articles. https://www.cc.gatech.edu/~sha9/
 invited talks (TRI interview, Ted adelsons class, Crotia, IIT, Robosoft WS)
 Workshop "positions" and websites
-Newest journal article from Sehoon (6/25ish)
-Tetrabot is finally released 
+[DONE]  Newest journal article from Sehoon (6/25ish) - Tetrabot is finally released 
+[.   ]  Add tetrabot photos
 Snapbot photos
 Consistent last name, first name among paper and projects pages
 Abstracts to papers page (like humanoids ws expand button)

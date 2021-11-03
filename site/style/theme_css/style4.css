@@ -252,6 +252,7 @@ iframe {
 	border:none;
 }
 
+
 .well-youtube2l {
 
 	/*width:100%;
@@ -572,6 +573,16 @@ td.table-links {
 	margin-bottom: 0px;
 	font-weight: 700;
 
+}
+
+ul {
+	padding-left: 12px;
+	list-style-type: circle;
+}
+
+li span {
+	position: relative;
+  	left: -2px;
 }
 
 
