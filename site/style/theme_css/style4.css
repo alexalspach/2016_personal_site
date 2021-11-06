@@ -580,11 +580,15 @@ ul {
 	list-style-type: circle;
 }
 
+
 li span {
 	position: relative;
   	left: -2px;
 }
 
+li:hover {
+	
+}
 
 #year{
 	/*min-height: 50px;	*/
@@ -853,6 +857,8 @@ Maybe dumb the footer unless descriptions will be added*/
  	/*color: #374746;*/
  	color: #E89C0C;
  	text-decoration: none;
+ 	/*list-style-type: "\25C9\0020";	*/
+ 	list-style-type: disc;
  }
 
  #qrcode{

@@ -15,6 +15,7 @@ $(function(){
 });
 
 $(function(){
+  //$("#includePapers").load("papers.html"); 
   $("#includePapers").load("paperspatents.html"); 
 });
 
@@ -24,7 +25,7 @@ $(function(){
 
 //name of page may change 
 $(function(){
-  $("#includeProjects").load("projects_stage.html"); 
+  $("#includeProjects").load("projects.html"); 
 });   
 
 $(function(){
