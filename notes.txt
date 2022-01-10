@@ -38,6 +38,7 @@ Abstracts to papers page (like humanoids ws expand button)
 [DONE]  Add 2 new TRI ICRA papers
 [DONE]  ADD Sehoon patent
 [DONE]  Add two bubble patents
+[.   ]  GRANTED Deformable sensors having multiple time-of-flight emitters (Pending) 
 
 Add media coverage page
 https://spectrum.ieee.org/automaton/robotics/home-robots/toyota-research-ceiling-mounted-home-robot
