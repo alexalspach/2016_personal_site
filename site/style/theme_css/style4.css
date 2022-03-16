@@ -344,6 +344,47 @@ iframe {
 	
 }
 
+
+.well-youtube2l-portrait {
+
+	/*width:100%;
+	height:490px;*/
+	width:35%;
+	height:509px;	
+	/*margin-top:20px;*/
+	margin-left:0;
+	
+	display:inline-block;
+	
+	-webkit-border-radius: 0px 0px 0px 0px;
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
+	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
+}
+
+.well-youtube2r-portrait {
+
+	/*width:100%;
+	height:490px;*/
+	width:35%;
+	height:509px;	
+	/*margin-top:20px;*/
+	margin-right:0;
+	
+	display:inline-block;
+	
+	-webkit-border-radius: 0px 0px 0px 0px;
+	-moz-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	
+	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
+	
+}
+
 .well-img {
 	/*width:190px;
 	height:190px;*/
@@ -354,7 +395,7 @@ iframe {
 	/*margin-right: 0.5%;
 	margin-left: 0%;*/
 	
-	margin-bottom: 8px;
+	margin-bottom: 5px;
 
 	/*margin-top:20px;*/
 	/*margin-left:1px;	
@@ -376,14 +417,14 @@ iframe {
 .well-img-wide {
 	/*width:190px;
 	height:190px;*/
-	width: 100%;
+	width: 99.6%;
 
 	/*margin-right: 3px;
 	margin-left: 3px;*/
 	/*margin-right: 0.5%;
 	margin-left: 0%;*/
 	
-	margin-bottom: 8px;
+	margin-bottom: 5px;
 
 	/*margin-top:20px;*/
 	/*margin-left:1px;	
@@ -458,7 +499,7 @@ iframe {
 	/*width:140px;*/
 	width: 49.3%;
 
-	margin-bottom: 4px;
+	margin-bottom: 1.5%;
 	/*margin-left: 2px;
 	margin-right: 2px;*/
 	
