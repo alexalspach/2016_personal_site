@@ -30,6 +30,12 @@ body {
 
 }
 
+/*
+.lazyload {
+  display: inline-block;
+}
+*/
+
 #hrdivider {
 	height: 0px;
 	width: 100%;
