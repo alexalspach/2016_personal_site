@@ -6,23 +6,27 @@
 [DONE]  add roman papers (hugging, telefurhat)
 [DONE]  add iros papers (ukelele, limb opt.)
 [    ]  Add proj. desc. on projects page to the Work page? 
-[    ]  bearbot, soft skin, (leave bullets for Macerick?)
+[DONE]  bearbot, soft skin, (leave bullets for Macerick?)
 [    ]  Further project description
 [    ]  Spell check, proof read
 [DONE]  Mugshot rollover (baymax pic?)
 [DONE]  Add snapbot!!!!!!!!!
 [DONE]  Add design optimization to projects page, w/ video
-[    ]  Allegro arm vid (where did it go? Not in Dropbox archive)
+[DONE]  Allegro arm vid (where did it go? Not in Dropbox archive)
 [DONE]  Robosoft Baymax Arm paper
-[    ]  Baymax arm on projects page
-[    ]  Soft bubble on projects page
-[    ]  Tetrabot on projects page
-[    ]  PUNYO Press release and website
-[    ]  
-[    ]  Robosoft 2022 3 papers (Punyo 1, Lumbrical Gripper, Bubble Gripper tool use)
-[    ]  Sihah robosoft variable pressure 
+[DONE]  Baymax arm on projects page
+[DONE]  Soft bubble on projects page
+[DONE]  Tetrabot on projects page
+[DONE]  PUNYO Press release and website
+[DONE]  Robosoft 2022 3 papers (Punyo 1, Lumbrical Gripper, SEED)
+[DONE]  Sihah robosoft variable pressure 
 [    ]  MORE PATENTS!! https://patents.google.com/?inventor=alexander+alspach&oq=alexander+alspach
-[    ] Capitalize all paper titles
+	https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html
+[    ]  Capitalize all paper titles
+[    ]  Add new Punyo (Feb2024) video and blog post
+[    ]  Add Paarth ICRA2024 paper (is it a journal article?)
+[    ]  Add KIMLAB jamming journal article 
+
 
 
 
