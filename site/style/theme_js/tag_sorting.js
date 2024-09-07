@@ -7,7 +7,7 @@ function sortAll()
 {
 	$(".sort-button").removeClass("btn-xs-active");
 	$(".sort-all").addClass("btn-xs-active");
-	$( ".all" ).slideDown( 400 )
+	$( ".all" ).slideDown( 10 )
 	
 }
 
@@ -113,7 +113,7 @@ function hideDate(tag)
 
 function sortDivs(tag)
 {
-	var slideTime = 400; //400
+	var slideTime = 0; //400
 	if ( $( "#sort-button-" + tag ).hasClass( "btn-xs-active" ) ) {
 		//sortAll();
 	}
