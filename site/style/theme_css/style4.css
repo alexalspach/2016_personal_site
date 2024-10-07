@@ -281,6 +281,10 @@ h1 a:active {
 	width:49.5%;;
 	height:228px;	
 }
+.media-flex-img-thirdwidth {
+	width:33%;
+}
+
 .media-flex-img-quarterwidth {
 	width:24.25%;
 }

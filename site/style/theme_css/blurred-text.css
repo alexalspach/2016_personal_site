@@ -159,6 +159,8 @@ ink[data-type="more-blurred"] {
 	-ms-filter: blur(20px);
 
 	filter: blur(20px);
+
+
 }
 
 [data-type="more-blurred"] {
@@ -168,6 +170,9 @@ ink[data-type="more-blurred"] {
 	-ms-filter: blur(20px);
 
 	filter: blur(20px);
+
+	
+
 }
 
 ink[data-type="more-blurred"]:hover {
@@ -211,35 +216,18 @@ ink[data-type="more-blurred ease-in"] {
 	-o-filter: blur(20px);
 	-moz-filter: blur(20px);
 	-ms-filter: blur(20px);
-	-webkit-transition: filter ease-in 1s;
-	-apple-transition: filter ease-in 1s;
+	-webkit-transition: filter ease-in 5s;
+	-apple-transition: filter ease-in 5s;
 
-	-ms-transition: filter ease-in 1s;
-	-o-transition: filter ease-in 1s;
-	-xv-transition: filter ease-in 1s;
+	-ms-transition: filter ease-in 5s;
+	-o-transition: filter ease-in 5s;
+	-xv-transition: filter ease-in 5s;
 
-	-khtml-transition: filter ease-in 1s;
-	-kong-transition: filter ease-in 1s;
-
-	filter: blur(20px);
-}
-
-ink[data-type="more-blurred ease-in"] {
-	-webkit-filter: blur(20px);
-	-o-filter: blur(20px);
-	-moz-filter: blur(20px);
-	-ms-filter: blur(20px);
-	-webkit-transition: filter ease-in 1s;
-	-apple-transition: filter ease-in 1s;
-
-	-ms-transition: filter ease-in 1s;
-	-o-transition: filter ease-in 1s;
-	-xv-transition: filter ease-in 1s;
-
-	-khtml-transition: filter ease-in 1s;
-	-kong-transition: filter ease-in 1s;
+	-khtml-transition: filter ease-in 5s;
+	-kong-transition: filter ease-in 5s;
 
 	filter: blur(20px);
+
 }
 
 [data-type="more-blurred ease-in"] {
@@ -247,17 +235,18 @@ ink[data-type="more-blurred ease-in"] {
 	-o-filter: blur(20px);
 	-moz-filter: blur(20px);
 	-ms-filter: blur(20px);
-	-webkit-transition: filter ease-in 1s;
-	-apple-transition: filter ease-in 1s;
+	-webkit-transition: filter ease-in 5s;
+	-apple-transition: filter ease-in 5s;
 
-	-ms-transition: filter ease-in 1s;
-	-o-transition: filter ease-in 1s;
-	-xv-transition: filter ease-in 1s;
+	-ms-transition: filter ease-in 5s;
+	-o-transition: filter ease-in 5s;
+	-xv-transition: filter ease-in 5s;
 
-	-khtml-transition: filter ease-in 1s;
-	-kong-transition: filter ease-in 1s;
+	-khtml-transition: filter ease-in 5s;
+	-kong-transition: filter ease-in 5s;
 
 	filter: blur(20px);
+
 }
 
 ink[data-type="more-blurred ease-in"]:hover {
@@ -267,6 +256,8 @@ ink[data-type="more-blurred ease-in"]:hover {
 	-ms-filter: blur(0px);
 
 	filter: blur(0px);
+
+	transition: all 1s ease-in-out;
 }
 
 [data-type="more-blurred ease-in"]:hover {
@@ -276,6 +267,19 @@ ink[data-type="more-blurred ease-in"]:hover {
 	-ms-filter: blur(0px);
 
 	filter: blur(0px);
+
+	transition: all 1s ease-in-out;	
+}
+
+ink[data-type="more-blurred ease-in"]:active {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+
+	transition: all 1s ease-in-out;	
 }
 
 [data-type="more-blurred ease-in"]:active {
@@ -285,15 +289,8 @@ ink[data-type="more-blurred ease-in"]:hover {
 	-ms-filter: blur(0px);
 
 	filter: blur(0px);
-}
 
-[data-type="more-blurred ease-in"]:active {
-	-webkit-filter: blur(0px);
-	-o-filter: blur(0px);
-	-moz-filter: blur(0px);
-	-ms-filter: blur(0px);
-
-	filter: blur(0px);
+	transition: all 1s ease-in-out;	
 }
 
 /*For sharp-hover*/
